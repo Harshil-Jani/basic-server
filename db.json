@@ -1,0 +1,38 @@
+{
+  "student": [
+    {
+      "id": "T5lesXi1wc_J76XqyuX2W",
+      "name": "Rashmi Ranjan",
+      "Department": "Physics"
+    }
+  ],
+  "teacher": [
+    {
+      "id": "NXuLZP6mthdzAbIN-tRDJ",
+      "name": "H.C Verma",
+      "Department": "Physics"
+    }
+  ],
+  "assessment": [
+    {
+      "id": "pQsLYOc2nyOZDRHIrsEsx",
+      "name": "Mid-Term Exam",
+      "Total Marks": "30"
+    }
+  ],
+  "school": [
+    {
+      "id": "Qzk5RP1Zs9yYAn56GzKMq",
+      "name": "IIT Kanpur",
+      "District": "Kanpur"
+    }
+  ],
+  "location": [
+    {
+      "id": "P53ICepR43_6WMGLI9CtT",
+      "District": "Kanpur",
+      "State": "Uttar Pradesh",
+      "Country": "India"
+    }
+  ]
+}
